@@ -1,0 +1,18 @@
+.navbar {
+    
+    height: 70px;
+ }
+
+@media (min-width: 500px) { 
+            .navbar{
+                    text-align: center;
+                    
+                   }
+}
+
+
+body {
+	background-color: #E2FFFF;
+	padding-top: 70px;
+
+}
